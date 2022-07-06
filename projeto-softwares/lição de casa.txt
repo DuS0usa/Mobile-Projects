@@ -1,0 +1,14 @@
+FLUTTER
+
+Flutter é uma tecnologia muito recente para o desenvolvimento multiplataforma, em comparação com seus irmãos mais velhos (React Native, Ionic, Xamarin). É recém-saído da fornalha do Google, como a gigante da tecnologia é quem está por trás do projeto como um todo.
+
+
+REACT NATIVE
+
+React Native é a estrutura de desenvolvimento de plataforma cruzada mais popular, com 42% do mercado. Seus benefícios incluem desempenho nativo, recarga de lote, suporte da comunidade e muito mais. Algumas das deficiências do framework são o gerenciamento de memória deficiente, a necessidade de desenvolvedores nativos e desafios de segurança inerentes ao JavaScript.
+
+
+ANDROID STUDIO
+
+Uma das principais vantagens do Android Studio, é a sua maior variedade de customização. Outro ponto positivo do Android Studio é a sua variedade de recursos. 
+Se, por um lado, o Android Studio tem mais recursos, isso cobra um preço. É que o desempenho da ferramenta pode acabar deixando a desejar.
